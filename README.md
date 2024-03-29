@@ -7,7 +7,7 @@ A GAN consists of two neural networks: a generator and a discriminator. The gene
 Getting Started
 To get started, simply clone this repository to your local machine:
 
-git clone https://github.com/your_username/simple-gan-pytorch.git
+git clone https://github.com/your_username/simple-gan-pytorch.git 
 Then, navigate to the project directory:
 
 cd simple-gan-pytorch
